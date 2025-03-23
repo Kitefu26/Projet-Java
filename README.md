@@ -26,8 +26,8 @@ Installation
 
 Cloner le dépôt Git :
 
-git clone https://github.com/ton-repo/projet-controle-ordinateur.git
-cd projet-controle-ordinateur
+git clone (https://github.com/Kitefu26/Projet-Java.git)
+cd Projet-Java
 
 Compiler et exécuter le serveur :
 
